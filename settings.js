@@ -10,20 +10,20 @@ global.APIKeys = {
 	'https://api.zeeoneofc.my.id': 'Your Key',
 }
 
-global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
+global.namabot = "DaffBotz"
+global.namaowner = "FInzyy"
 global.packname = namabot
 global.author = namaowner
 global.myweb = "https://s.id/zeeoneofc"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62887435047326']
+global.owner = ['6285714110562']
 global.pairingNumber = "" //pairing number to install bot 
-global.sessionName = 'session'
+global.sessionName = 'rm- rf session'
 global.background = "https://telegra.ph/file/40342e0085d521cb8b907.jpg" //maks size 50kb agar welcome nya gk lemot
 global.prefa = ['-_-']
-global.grup_only = false //bot hanya bisa di gunakan dalam grup jika true
+global.grup_only = true //bot hanya bisa di gunakan dalam grup jika true
 global.mess = {
     done: 'Done ✅',
     wait: '_⌛ Sedang di proses_',
@@ -35,7 +35,7 @@ global.mess = {
 global.butwel =  [{
    buttonId: '.menu',
    buttonText: {
-      displayText: '⚡ Menu'
+      displayText: '.Menu'
    },
    type: 1
 }, {
